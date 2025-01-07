@@ -3,6 +3,8 @@ In this hands-on codelab, you'll build a complete authentication system from scr
 
 ![supabase nuxt auth](https://github.com/user-attachments/assets/18be9fda-b9a1-4377-a879-f6de058c88b7)
 
+Codelab: https://gradus.dev/labs/email-password-auth-with-supabase-in-nuxt-na2zIw
+
 
 ## Setup
 
