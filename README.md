@@ -1,6 +1,8 @@
-# Nuxt Minimal Starter
+# Email Password Auth with Supabase in Nuxt
+In this hands-on codelab, you'll build a complete authentication system from scratch, integrating Supabase's powerful authentication services with Nuxt's modern framework. From basic email/password authentication to protected routes and error handling, you'll gain practical experience in building secure user management systems.
 
-Look at the [Nuxt documentation](https://nuxt.com/docs/getting-started/introduction) to learn more.
+![supabase nuxt auth](https://github.com/user-attachments/assets/18be9fda-b9a1-4377-a879-f6de058c88b7)
+
 
 ## Setup
 
