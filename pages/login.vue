@@ -28,8 +28,8 @@
 const supabase = useSupabaseClient();
 const user = useSupabaseUser();
 
-const email = ref("rishigandhi021@gmail.com");
-const password = ref("Rishi@123");
+const email = ref("");
+const password = ref("");
 const error = ref(null);
 const loading = ref(false);
 
